@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+#<> @action ${1:action_name} ${2:description}.
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>acdoc</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.ruby</scope>
+</snippet>

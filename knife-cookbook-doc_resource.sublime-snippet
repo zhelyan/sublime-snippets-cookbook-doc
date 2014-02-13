@@ -1,0 +1,29 @@
+<snippet>
+	<content><![CDATA[
+=begin
+#<
+The ${1:lwrp_name} LWRP ${2:short_description}
+
+${3:long_description}
+
+@action ${4:action} ${5:action_description}
+
+@section Examples
+
+    # An example of how to use ${1:lwrp_name} LWRP
+
+    ${1:lwrp_name} "${2:short_description}" do
+    	${6:param1}  			${7:param1_val} 
+    	${8:param1} 			${9:param1_val} 
+    	${10:param1} 			${11:param1_val} 
+    	${12:param1} 			${13:param1_val} 
+    	action :${4:action}
+    end
+#>
+=end
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>resdoc</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.ruby</scope>
+</snippet>
