@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 knife-cookbook-doc snippets for SublimeText
 
 # Installation
@@ -36,9 +35,3 @@ Shortcut|Use to document..
 
 Refer to [https://github.com/realityforge/knife-cookbook-doc](knife-cookbook-doc) for more info
 
-=======
-sublime-snippets-cookbook-doc
-=============================
-
-sublime-snippets-cookbook-doc
->>>>>>> github/master
