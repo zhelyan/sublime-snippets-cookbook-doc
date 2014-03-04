@@ -1,0 +1,24 @@
+<snippet>
+  <content><![CDATA[
+  =begin
+    #<
+    The ${1:definition} definition ${2:definition}.
+
+    @param ${3:param} ${4:param_desc}.
+    @param ${5:param} ${6:param_desc}
+
+    @section Examples
+
+        # An example of my awesome service
+        ${1:definition} "${7:definition_name}" do
+          ${3:param} '${8:param}'
+          ${5:param} '${9:param}'
+        end
+    #>
+  =end
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>defdoc</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.ruby</scope>
+</snippet>
