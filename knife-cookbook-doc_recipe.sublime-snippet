@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+=begin
+#<
+This recipe ${1:your_comment}. It does thing 1, thing 2 and thing 3!
+#>
+=end 
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>recdoc</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.ruby</scope>
+</snippet>
