@@ -14,11 +14,11 @@ Open a recipe.
 
 you should get:
 ```
-              =begin
-              #<
-              This recipe your_comment. It does thing 1, thing 2 and thing 3!
-              #>
-              =end
+  =begin
+  #<
+  This recipe your_comment. It does thing 1, thing 2 and thing 3!
+  #>
+  =end
 ```
 ## Available snippets
 
