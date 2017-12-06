@@ -13,13 +13,13 @@ Open a recipe.
 * at the top of the file type `recdoc` and press `TAB`
 
 you should get:
-
+```
               =begin
               #<
               This recipe your_comment. It does thing 1, thing 2 and thing 3!
               #>
               =end
-
+```
 ## Available snippets
 
 Shortcut|Use to document..
@@ -33,5 +33,5 @@ Shortcut|Use to document..
 
 
 
-Refer to [https://github.com/realityforge/knife-cookbook-doc](knife-cookbook-doc) for more info
+Refer to https://github.com/realityforge/knife-cookbook-doc for more info
 
